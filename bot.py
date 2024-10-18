@@ -12,8 +12,8 @@ driver = webdriver.Firefox()
 login_url = 'https://online-auction.state.gov/en-US/Account/Login?ReturnUrl=%2Fen-US'
 
 # Credentials
-username = 'amanesu1521@gmail.com'
-password = 'Aman1515@#'
+username = ''
+password = ''
 
 # Initialize your bid
 your_bid = 25000
